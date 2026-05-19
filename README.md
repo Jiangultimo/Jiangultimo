@@ -16,25 +16,21 @@
   <img src="https://komarev.com/ghpvc/?username=Jiangultimo&style=for-the-badge&color=E0F2FE&label=VISITORS" alt="Profile views" />
 </p>
 
----
-
-
 <p align="center">
   <img src="./assets/agent-system.svg" alt="Animated AI agent workflow: Observation to Context to Design to Capability to Action to Evaluation" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiangultimo&theme=github" alt="GitHub profile details" />
+  <img src="https://ghstats.dev/api/card?username=Jiangultimo&theme=light&hide_border=true&size=compact&compact_count=6" alt="Hing's GitHub stats" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jiangultimo&theme=github" alt="Repositories per language" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jiangultimo&theme=github" alt="GitHub stats" />
+  <img src="https://ghstats.dev/api/langs?username=Jiangultimo&theme=light&hide_border=true&max_langs=8&layout=bar" alt="Top languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=Jiangultimo&theme=light&hide_border=true&days=30&width=700&height=100&title=Recent%20Activity" alt="Recent activity sparkline" />
+</p>
 
 <p align="center">
   <strong>Open to remote consulting, AI product builds, and full-stack product engineering.</strong>
