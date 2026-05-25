@@ -33,6 +33,20 @@
 </p>
 
 <p align="center">
+  <strong><a href="https://github.com/Ontos-AI/knowhere">Knowhere</a></strong>
+  <br />
+  <sub>Memory infrastructure for AI agents: messy documents into structured, navigable, traceable context.</sub>
+  <br />
+  <a href="https://github.com/Ontos-AI/knowhere">
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=github&logoColor=181717&labelColor=F8FAFC&color=E2E8F0" alt="Knowhere on GitHub" />
+  </a>
+  <a href="https://docs.knowhereto.ai">
+    <img src="https://img.shields.io/badge/Docs-ffffff?style=flat&logo=readthedocs&logoColor=2563EB&labelColor=F8FAFC&color=E2E8F0" alt="Knowhere docs" />
+  </a>
+  <img src="https://img.shields.io/badge/Agentic%20RAG-ffffff?style=flat&labelColor=F8FAFC&color=E2E8F0" alt="Agentic RAG" />
+</p>
+
+<p align="center">
   <strong>Open to remote consulting, AI product builds, and full-stack product engineering.</strong>
 </p>
 
